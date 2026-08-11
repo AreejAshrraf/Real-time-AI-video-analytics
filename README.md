@@ -69,5 +69,3 @@ The application:
         │      Dashboard      │
         └─────────────────────┘
 
-![Real-Time AI Video Analytics](Screenshot 2026-07-14 192751.png)
-
