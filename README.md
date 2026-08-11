@@ -68,8 +68,6 @@ The application:
         │ Unified Monitoring  │
         │      Dashboard      │
         └─────────────────────┘
-<img width="1593" height="902" alt="Screenshot 2026-07-14 192751" src="https://github.com/user-attachments/assets/547d3e0e-9e39-4447-b4cf-031d4a1facc8" />
-<img width="1593" height="902" alt="Screenshot 2026-07-14 192751" src="https://github.com/user-attachments/assets/999981b1-3a8e-4cec-95a2-9b4af6c9169a" />
 
-<img width="1593" height="902" alt="image" src="https://github.com/user-attachments/assets/16ad10ea-2c37-42b9-a324-1c3e94705ce0" />
+![Real-Time AI Video Analytics](Screenshot 2026-07-14 192751.png)
 
