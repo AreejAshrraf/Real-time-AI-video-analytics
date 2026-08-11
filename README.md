@@ -68,3 +68,5 @@ The application:
         │ Unified Monitoring  │
         │      Dashboard      │
         └─────────────────────┘
+<img width="1593" height="902" alt="Screenshot 2026-07-14 192751" src="https://github.com/user-attachments/assets/3367fb1d-9dab-4277-a7c6-f656a866f3c3" />
+
