@@ -1,4 +1,5 @@
 # Real-Time AI Video Analytics
+![Screenshot 2026-07-14 192751](https://github.com/user-attachments/assets/14914d3b-2256-47a1-ad40-10e8918ccc6a)
 
 A real-time AI-powered video analytics system that processes live RTSP camera streams and performs object detection using YOLOv8 and OpenCV.
 
